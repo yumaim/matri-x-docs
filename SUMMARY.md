@@ -5,35 +5,39 @@
 ## はじめに
 
 * [Matri-Xとは](getting-started/what-is-matri-x.md)
-* [なぜアルゴリズム理解が重要か](getting-started/why-algorithm-matters.md)
 * [クイックスタート](getting-started/quickstart.md)
 * [アカウント登録](getting-started/signup.md)
 
-## アルゴリズム解説
-
-* [アルゴリズム概要](algorithm/overview.md)
-* [タイムライン表示ロジック](algorithm/timeline-logic.md)
-* [エンゲージメント重み付け](algorithm/engagement-weights.md)
-* [フォロワー外リーチの仕組み](algorithm/reach-beyond-followers.md)
-* [アルゴリズム変更履歴](algorithm/changelog.md)
-
 ## 使い方ガイド
 
-* [DeepWikiの使い方](guides/deepwiki.md)
-* [シミュレーターの使い方](guides/simulator.md)
 * [フォーラムの使い方](guides/forum.md)
 * [開発チケットの投稿方法](guides/tickets.md)
-
-## プラン・料金
-
-* [プラン比較](pricing.md)
-
-## 開発者向け
-
-* [API Reference（近日公開）](developers/api-reference.md)
-* [コントリビュートガイド](developers/contributing.md)
 
 ## その他
 
 * [よくある質問（FAQ）](faq.md)
 * [お問い合わせ](contact.md)
+
+---
+
+## 🚧 Coming Soon（開発中）
+
+以下の機能は現在開発中です。公開時に通知を受け取りたい方は[お問い合わせ](contact.md)ください。
+
+### DeepWiki - アルゴリズム解説
+
+* アルゴリズム概要
+* タイムライン表示ロジック
+* エンゲージメント重み付け
+* フォロワー外リーチの仕組み
+* アルゴリズム変更履歴
+
+### ツール
+
+* シミュレーター - 投稿パフォーマンス予測
+* アルゴリズム更新通知 - GitHub連動
+
+### 開発者向け
+
+* API Reference
+* プラン・料金（Pro / Enterprise）
