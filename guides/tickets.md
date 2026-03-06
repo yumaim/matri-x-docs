@@ -10,6 +10,8 @@ Matri-Xの改善提案やバグ報告をするための機能です。
 
 あなたの声が、Matri-Xをより良くします！
 
+<figure><img src="images/tickets-page.png" alt="開発チケットページ"><figcaption>開発チケットページ — 機能リクエストやバグ報告をチケットとして投稿できます</figcaption></figure>
+
 ---
 
 ## 📝 投稿方法

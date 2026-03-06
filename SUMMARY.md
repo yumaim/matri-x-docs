@@ -10,12 +10,14 @@
 
 ## 使い方ガイド
 
+* [ダッシュボードの使い方](guides/dashboard.md)
 * [フォーラムの使い方](guides/forum.md)
 * [開発チケットの投稿方法](guides/tickets.md)
 
 ## その他
 
 * [よくある質問（FAQ）](faq.md)
+* [料金プラン](pricing.md)
 * [お問い合わせ](contact.md)
 
 ---
